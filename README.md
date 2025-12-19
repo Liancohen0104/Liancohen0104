@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me 🚀
 
 Software Engineer with a strong foundation in building real-world applications,  
 from backend APIs and system integrations to clean, intuitive frontend experiences.
@@ -14,7 +14,7 @@ production-ready software. Experienced in working with modern stacks and contain
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools 🛠️
 
 ### Frontend
 
@@ -40,7 +40,7 @@ production-ready software. Experienced in working with modern stacks and contain
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats 📊
 
 <div align="left">
 
@@ -52,7 +52,7 @@ production-ready software. Experienced in working with modern stacks and contain
 
 ---
 
-## 📬 Let's Connect
+## Let's Connect 📬
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/liancohen)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:liancohen0104@gmail.com)
