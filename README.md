@@ -40,6 +40,13 @@ production-ready software. Experienced in working with modern stacks and contain
 
 ---
 
+## 📊 GitHub Stats
+
+![Lian Cohen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Liancohen0104&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Liancohen0104&layout=compact&theme=radical)
+
+---
+
 ## 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/liancohen)
