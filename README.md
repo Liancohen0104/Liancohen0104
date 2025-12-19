@@ -44,7 +44,7 @@ production-ready software. Experienced in working with modern stacks and contain
 
 <div align="left">
 
-![Lian Cohen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Liancohen0104&show_icons=true&hide=prs,issues&hide_rank=true&theme=github_dark)
+![Lian Cohen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Liancohen0104&show_icons=true&hide=prs,issues&hide_rank=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Liancohen0104&layout=compact&theme=tokyonight)
 
