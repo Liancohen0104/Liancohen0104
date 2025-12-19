@@ -40,6 +40,7 @@ production-ready software. Experienced in working with modern stacks and contain
 
 ---
 
-## 📫 Let's Connect
-- GitHub: https://github.com/Liancohen0104
-- LinkedIn: https://linkedin.com/in/liancohen
+## 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/liancohen)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:liancohen0104@gmail.com)
