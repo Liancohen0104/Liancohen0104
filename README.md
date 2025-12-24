@@ -6,11 +6,9 @@
 
 ## About Me 🚀
 
-Software Engineer with a strong foundation in building real-world applications,  
-from backend APIs and system integrations to clean, intuitive frontend experiences.
-
-I enjoy taking complex problems, breaking them down, and turning them into reliable,
-production-ready software. Experienced in working with modern stacks and containerized environments in production-oriented systems.
+Software Engineer focused on backend development, automation, and AI-powered systems.
+Experienced in building scalable backend services, system integrations, and data-driven pipelines using Python, JavaScript, and SQL.
+Hands-on experience integrating LLM-based services into production-ready architectures.
 
 ---
 
