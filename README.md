@@ -6,8 +6,8 @@
 
 ## About Me 🚀
 
-Software Engineer focused on backend development, automation, and AI-powered systems.
-Experienced in building scalable backend services, system integrations, and data-driven pipelines using Python, JavaScript, and SQL.
+Software Engineer focused on backend development, automation, and AI-powered systems.<br />
+Experienced in building scalable backend services, system integrations, and data-driven pipelines using Python, JavaScript, and SQL.<br />
 Hands-on experience integrating LLM-based services into production-ready architectures.
 
 ---
