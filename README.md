@@ -40,12 +40,18 @@ Hands-on experience integrating LLM-based services into production-ready archite
 
 ## GitHub Stats 📊
 
+## GitHub Stats 📊
+
 <div align="left">
-
-![Lian Cohen's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Liancohen0104&show_icons=true&hide=prs,issues&hide_rank=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Liancohen0104&layout=compact&theme=tokyonight)
-
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Liancohen0104&show_icons=true&hide=prs,issues&hide_rank=true&theme=tokyonight&cache_seconds=86400"
+    alt="Lian Cohen's GitHub Stats"
+  />
+  <br/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liancohen0104&layout=compact&theme=tokyonight&cache_seconds=86400"
+    alt="Top Languages"
+  />
 </div>
 
 ---
