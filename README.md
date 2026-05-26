@@ -32,18 +32,6 @@
 
 ---
 
-## GitHub Stats 📊
-
-<div align="left">
-  
-  ![Lian Cohen's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Liancohen0104&show_icons=true&hide=prs,issues&hide_rank=true&theme=tokyonight&cache_seconds=86400) 
-  
-  ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Liancohen0104&layout=compact&theme=tokyonight&cache_seconds=86400) 
-  
-</div>
-
----
-
 ## Let's Connect 📬
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/liancohen)
